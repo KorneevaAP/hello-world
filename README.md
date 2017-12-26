@@ -1,2 +1,3 @@
 # hello-world
-First step
+#First step
+#include <stdio.h>
